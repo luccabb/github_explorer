@@ -1,6 +1,6 @@
 # Github API explorer
 
-This project lets you explore github repositories. (Test it here)[https://mystifying-bartik-6ffaed.netlify.app/]
+This project lets you explore github repositories. [Test it here](https://mystifying-bartik-6ffaed.netlify.app/)
 
 ## Getting started
 
